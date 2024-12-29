@@ -1,5 +1,5 @@
 # Информация обо мне
-![Photo](image/Photo.png)    
+![Photo](https://github.com/ynataly321/git-2/blob/main/image/Photo.PNG)    
 - *имя:* Наталья
 - *рост:* 167 см
 - *вес:* 54 кг
